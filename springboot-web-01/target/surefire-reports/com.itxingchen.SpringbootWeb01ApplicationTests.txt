@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.itxingchen.SpringbootWeb01ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.859 s -- in com.itxingchen.SpringbootWeb01ApplicationTests
